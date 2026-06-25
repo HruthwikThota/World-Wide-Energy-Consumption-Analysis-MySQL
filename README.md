@@ -41,16 +41,6 @@ ENERGYDB2
 
 ---
 
-## 🧩 Database Schema (ER Diagram)
-
-> Upload **ER_Diagram.png** to this repository. After uploading, GitHub will display it below automatically.
-
-```markdown
-![ER Diagram](ER_Diagram.png)
-```
-
----
-
 ## 📊 SQL Concepts Used
 
 - CREATE DATABASE
@@ -110,7 +100,7 @@ The repository includes:
 
 ---
 
-## 📂 Google Drive
+##  Google Drive
 
 Project Files:
 
@@ -118,7 +108,7 @@ Project Files:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Hruthwik Thota**
 
@@ -126,6 +116,6 @@ Aspiring Data Analyst | Python Developer | SQL | Power BI | MySQL
 
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 
 Please consider giving this repository a ⭐ Star.
